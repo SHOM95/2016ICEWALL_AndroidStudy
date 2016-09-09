@@ -3,7 +3,7 @@
 #강의 계획
 	아래 수업 내용은 경우에 따라 변경될 수 있습니다.
 ###1주차
-Android란? MVC구조/ 4대 컴포넌트/ 운영체제와 안드로이드
+Android란? MVC구조/ 4대 컴포넌트/ 운영체제와 안드로이드\n
 HW: Android Studio 설치해오기( SDK 19, 21,22,23,24 )
 ###2주차
 View 강의1: View 구조와 ViewGroup/ LayoutParams
