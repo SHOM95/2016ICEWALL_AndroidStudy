@@ -10,7 +10,7 @@
 
 Java 공부 사이트: [점프 투 자바](https://wikidocs.net/book/31), [생활 코딩](https://opentutorials.org/course/1223)
 
-Android 공부 사이트: [커니의 안드로이드](http://androidhuman.com/), [do it 안드로이드](https://www.youtube.com/watch?v=xO1TlHzZHFU)
+Android 공부 사이트: [Google Developers](https://developer.android.com/training/index.html), [커니의 안드로이드](http://androidhuman.com/), [do it 안드로이드](https://www.youtube.com/watch?v=xO1TlHzZHFU), [tutorialspoint/android](http://www.tutorialspoint.com/android/)
 
 ####HW: Android Studio 설치해오기( SDK 19, 21, 22, 23). week0_assignment_INSTALL.pdf 참조.
 
