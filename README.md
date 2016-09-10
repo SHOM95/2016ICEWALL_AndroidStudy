@@ -1,14 +1,20 @@
 # 2016 ICEWALL Android Study
 안드로이드 스터디를 위한 공간입니다.
-#강의 계획
-	아래 수업 내용은 경우에 따라 변경될 수 있습니다.
+#스터디 계획
+	아래 스터디 내용은 경우에 따라 변경될 수 있습니다.
 ##0주차
-주의: "이클립스와는 다르게 램을 무지하게 먹는다. ~~이클립스도 충분히 많이 먹잖아~~게다가 어느정도 성능도 타기때문에 수월하게 ~~크롬으로 구글링하면서~~ 개발하려면 *최소* i5 3세대 이상과 8GB 이상 램을 쓸것을 권장한다."-나무위키
+주의1: "이클립스와는 다르게 램을 무지하게 먹는다. ~~이클립스도 충분히 많이 먹잖아~~게다가 어느정도 성능도 타기때문에 수월하게 ~~크롬으로 구글링하면서~~ 개발하려면 **최소** i5 3세대 이상과 8GB 이상 램을 쓸것을 권장한다."-나무위키
 
-####HW: Android Studio 설치해오기( SDK 19, 21,22,23,24 ).
+주의2: 해당 스터디는 C언어를 최소한 문법은 숙지했다는 가정하에 진행합니다.
+아래 내용은 대략적인 갈피를 잡은 것이며, 스터디원의 습득력에 따라 진도를 더 빠르게 진행하거나 느리게 진행할 예정입니다.
+Java 공부 사이트: [점프 투 자바](https://wikidocs.net/book/31), [생활 코딩](https://opentutorials.org/course/1223)
+Android 공부 사이트: [커니의 안드로이드](http://androidhuman.com/), [do it 안드로이드](https://www.youtube.com/watch?v=xO1TlHzZHFU)
+
+####HW: Android Studio 설치해오기( SDK 19, 21, 22, 23). week0_assignment_INSTALL.pdf 참조.
 
 ##1주차
-Android란? MVC구조/ 4대 컴포넌트/ 운영체제와 안드로이드.
+Android란? MVC구조/ 4대 컴포넌트/ 운영체제와 안드로이드/ Library, API, Framework, SDK 개념
+
 ##2주차
 View 강의1: View 구조와 ViewGroup/ LayoutParams
 ####HW: LayoutParams 가 무엇인지 각자 요약해오기/ View 상속 관계 직접 그려보기/ TextView, Button, ImageView, EditText 조사
