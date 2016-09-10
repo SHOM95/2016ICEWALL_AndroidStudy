@@ -12,8 +12,7 @@ Java 공부 사이트: [점프 투 자바](https://wikidocs.net/book/31), [생�
 
 Android 공부 사이트: [Google Developers](https://developer.android.com/training/index.html), [커니의 안드로이드](http://androidhuman.com/), [do it 안드로이드](https://www.youtube.com/watch?v=xO1TlHzZHFU), [tutorialspoint/android](http://www.tutorialspoint.com/android/)
 
-자바에 관한 공부 자료를 Java 폴더에 지속적으로 올릴 예정입니다.
-안드로이드에 관한 공부 자료를 Android 폴더에 지속적으로 올릴 예정입니다.
+추후 공부 자료를 지속적으로 올릴 예정입니다.
 
 ####HW: Android Studio 설치해오기( SDK 19, 21, 22, 23). week0_assignment_INSTALL.pdf 참조.
 
