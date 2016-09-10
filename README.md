@@ -7,7 +7,9 @@
 
 주의2: 해당 스터디는 C언어를 최소한 문법은 숙지했다는 가정하에 진행합니다.
 아래 내용은 대략적인 갈피를 잡은 것이며, 스터디원의 습득력에 따라 진도를 더 빠르게 진행하거나 느리게 진행할 예정입니다.
+
 Java 공부 사이트: [점프 투 자바](https://wikidocs.net/book/31), [생활 코딩](https://opentutorials.org/course/1223)
+
 Android 공부 사이트: [커니의 안드로이드](http://androidhuman.com/), [do it 안드로이드](https://www.youtube.com/watch?v=xO1TlHzZHFU)
 
 ####HW: Android Studio 설치해오기( SDK 19, 21, 22, 23). week0_assignment_INSTALL.pdf 참조.
