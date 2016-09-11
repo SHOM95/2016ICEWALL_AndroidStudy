@@ -10,7 +10,7 @@
 
 Java 공부 사이트: [점프 투 자바](https://wikidocs.net/book/31), [생활 코딩](https://opentutorials.org/course/1223)
 
-Android 공부 사이트: [Google Developers](https://developer.android.com/training/index.html), [커니의 안드로이드](http://androidhuman.com/), [do it 안드로이드](https://www.youtube.com/watch?v=xO1TlHzZHFU), [tutorialspoint/android](http://www.tutorialspoint.com/android/)
+Android 공부 사이트: [Google Developers](https://developer.android.com/training/index.html), [커니의 안드로이드](http://androidhuman.com/), [do it 안드로이드](https://www.youtube.com/watch?v=xO1TlHzZHFU), [tutorialspoint/android](http://www.tutorialspoint.com/android/), [휴우의블로그](http://blog.naver.com/huewu), [아라비안나이트](http://arabiannight.tistory.com/category/Android)
 
 추후 공부 자료를 지속적으로 올릴 예정입니다.
 
