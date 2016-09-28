@@ -19,9 +19,13 @@ Android 공부 사이트: [Google Developers](https://developer.android.com/trai
 ##1주차
 Android란? MVC구조/ 4대 컴포넌트/ 운영체제와 안드로이드/ Library, API, Framework, SDK 개념
 
+### 진행 결과
+위 개념을 공부하였습니다. 자세한 것은 week1 ppt 혹은 [이사이트](https://kairo96.gitbooks.io/android/content/ch0.html) 참고.
+
 ##2주차
 View 강의1: View 구조와 ViewGroup/ LayoutParams
-####HW: LayoutParams 가 무엇인지 각자 요약해오기/ View 상속 관계 직접 그려보기/ TextView, Button, ImageView, EditText 조사
+
+####HW: LayoutParams 가 무엇인지 각자 요약해오기/ View 상속 관계 직접 그려보기/ TextView, Button, ImageView, EditText 개념 정리/ xml로 화면 구성해보기.
 
 ##3주차
 View 강의2: TextView, Button, ImageView, EditText
